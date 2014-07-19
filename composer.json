@@ -1,5 +1,5 @@
 {
-	"name": "digitalhod/scussi",
+	"name": "digitalhod/silverstripe-scussi",
 	"type": "silverstripe-module",
 	"description": "SCSS dynamic compiler for SilverStripe",
 	"homepage": "http://github.com/digitalhod",
